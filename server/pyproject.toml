@@ -6,6 +6,10 @@ authors = ["Your Name <you@example.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pywebview = "^3.7.2"
+pure-python-adb = "^0.3.0-alpha.0"
+uiautomator = "^1.0.2"
+uiautomator2 = "^2.16.22"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
